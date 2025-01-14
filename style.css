@@ -1,0 +1,5 @@
+/* Add your CSS styles here */
+.forbidden-div {
+    border: 2px solid red !important;
+    background-color: #ffe6e6 !important;
+}
